@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/viseliza" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfwC9yeGOFhusb08Nb7kclo7xjJHozaszx0g&s" width="200" alt="Viseliza" /></a>
+  <a href="https://github.com/viseliza" target="blank"><img src="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-emblema-zhkkh-na-prozrachnom-fone-25.jpg" width="200" alt="Viseliza" /></a>
 </p>
 
 
