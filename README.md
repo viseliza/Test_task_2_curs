@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/viseliza" target="blank"><img src="https://img.freepik.com/free-vector/real-estate-banners_98292-561.jpg?w=826&t=st=1719520562~exp=1719521162~hmac=091dbbcce7429c253773337b245fc47fb82528d1e93b36d3931849a63a3270a9" width="200" alt="Viseliza" /></a>
+  <a href="https://github.com/viseliza" target="blank"><img src="https://img.freepik.com/free-vector/real-estate-banners_98292-561.jpg?w=826&t=st=1719520562~exp=1719521162~hmac=091dbbcce7429c253773337b245fc47fb82528d1e93b36d3931849a63a3270a9" width="350" alt="Viseliza" /></a>
 </p>
 
 
